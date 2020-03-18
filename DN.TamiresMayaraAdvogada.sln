@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DN.TamiresMayaraAdvogada.Site", "DN.TamiresMayaraAdvogada.Site\DN.TamiresMayaraAdvogada.Site.csproj", "{C5680135-B72A-41BD-98F6-FDF59AE12BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5680135-B72A-41BD-98F6-FDF59AE12BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5680135-B72A-41BD-98F6-FDF59AE12BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5680135-B72A-41BD-98F6-FDF59AE12BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5680135-B72A-41BD-98F6-FDF59AE12BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2927209B-98FE-4321-AEDD-A692704696D4}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs-alm:8080/tfs/aasp
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DN.TamiresMayaraAdvogada.Site\\DN.TamiresMayaraAdvogada.Site.csproj
+		SccProjectName1 = DN.TamiresMayaraAdvogada.Site
+		SccLocalPath1 = DN.TamiresMayaraAdvogada.Site
+	EndGlobalSection
+EndGlobal
